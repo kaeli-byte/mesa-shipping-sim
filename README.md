@@ -31,6 +31,11 @@ A minimal Mesa-based agent-based model (ABM) for shipping fuel competition acros
 └── tests/
 ```
 
+## Repository note
+
+This repository now has a single canonical scaffold at the root (`configs/`, `scripts/`, `src/`, `tests/`).
+The legacy nested scaffold under `renewable-fuel-abm/` was removed to avoid duplicate project structures.
+
 ## Setup
 
 ```bash
