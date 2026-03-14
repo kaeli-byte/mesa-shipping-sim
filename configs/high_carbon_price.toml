@@ -1,0 +1,4 @@
+num_ship_operators = 12
+carbon_price = 250.0
+steps = 12
+seed = 42
